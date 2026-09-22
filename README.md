@@ -15,3 +15,6 @@ A simple authentication project using Node.js, Express and Nodemailer.
 - Node.js
 - Express.js
 - Nodemailer
+## Version
+
+1.0.1
